@@ -1,8 +1,10 @@
 <a target="_blank" href="https://www.omundogeek.com">
     <img width="80px" src="./imagens/favicon_2022_mundo_geek_2.png" alt="site-mundo-geek">
 </a>
+<br>
+<br>
 
-Projeto Loja WooCommerce "O Mundo Geek " 😁👍🚀🧑‍🚀
+Projeto de site loja "O Mundo Geek " 😁👍🚀🧑‍🚀
 
 Site responsivo criado para empresa de vendas de produtos segmentados "Geek Universe", identidade visual criada por mim como Designer Gráfico, diversos plugins combinados ao uso da plataforma Dser para link de produtos do Aliexpress.
 
