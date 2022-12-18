@@ -31,9 +31,11 @@ Obrigado. (●'◡'●)
 <br>
 <br>
 
+<div align="center">
 <a target="_blank" href="https://www.omundogeek.com">
     <img width="" src="./imagens/mockup.png" alt="site-mundo-geek">
     <img width="" src="./imagens/desktop.png" alt="site-mundo-geek">
     <img width="45%" src="./imagens/mobile-0.png" alt="site-mundo-geek">
     <img width="45%" src="./imagens/mobile-1.png" alt="site-mundo-geek">
 </a>
+<div/>
