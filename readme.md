@@ -31,6 +31,8 @@ Obrigado. (●'◡'●)
 <br>
 
 <a target="_blank" href="https://www.omundogeek.com">
-    <img width="" src="./imagens/screencapture-omundogeek-2022-12-18-00_33_11.png" alt="site-mundo-geek">
-    <img width=""src="./imagens/screencapture-omundogeek-2022-12-18-00_35_59.png" alt="site-mundo-geek">
+    <img width="" src="./imagens/mockup" alt="site-mundo-geek">
+    <img width="" src="./imagens/desktop" alt="site-mundo-geek">
+    <img width="" src="./imagens/mobile-0" alt="site-mundo-geek">
+    <img width=""src="./imagens/mobile-1" alt="site-mundo-geek">
 </a>
