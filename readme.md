@@ -1,5 +1,5 @@
 <a target="_blank" href="https://www.omundogeek.com">
-    <img width="80px" src="./imagens/favicon_2022_mundo_geek_2.png" alt="site-mundo-geek">
+    <img width="100px" src="./imagens/favicon_2022_mundo_geek_2.png" alt="site-mundo-geek">
 </a>
 <br>
 <br>
