@@ -6,7 +6,7 @@
 
 Projeto de site loja "O Mundo Geek " 😁👍🚀🧑‍🚀
 
-Site responsivo criado para empresa de vendas de produtos segmentados "Geek Universe", identidade visual criada por mim como Designer Gráfico, diversos plugins combinados ao uso da plataforma Dser para link de produtos do Aliexpress.
+Site responsivo criado para empresa de vendas de produtos segmentados "Geek Universe", logotipia, temática e paleta de cores criada por mim como Designer Gráfico, diversos plugins combinados ao uso da plataforma Dser para link de produtos do Aliexpress.
 
 TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 
