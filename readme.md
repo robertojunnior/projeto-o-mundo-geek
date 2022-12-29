@@ -38,4 +38,4 @@ Obrigado. (●'◡'●)
     <img width="45%" src="./imagens/mobile-0.png" alt="site-mundo-geek">
     <img width="45%" src="./imagens/mobile-1.png" alt="site-mundo-geek">
 </a>
-<div/>
+</div>
