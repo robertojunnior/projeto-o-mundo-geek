@@ -6,14 +6,13 @@
 
 Projeto de site loja "O Mundo Geek " 😁👍🚀🧑‍🚀
 
-Site responsivo criado para empresa de vendas de produtos segmentados "Geek Universe", logotipia, temática e paleta de cores criada por mim como Designer Gráfico, diversos plugins combinados ao uso da plataforma Dser para link de produtos do Aliexpress.
+Site responsivo criado para empresa de vendas de produtos segmentados "Geek Universe", logotipia, temática e paleta de cores criada por mim como Designer Gráfico,  plugins de segurança, sistema de busca, otimização, SEO, SSL e mais combinados ao uso da plataforma Dser para link de produtos do Aliexpress.
 
 TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 
 - Wordpress;
 - WooCommerce;
 - Elementor;
-- HTML5;
 - CSS3;
 - Photoshop;
 - Illustrator.
@@ -38,4 +37,4 @@ Obrigado. (●'◡'●)
     <img width="45%" src="./imagens/mobile-0.png" alt="site-mundo-geek">
     <img width="45%" src="./imagens/mobile-1.png" alt="site-mundo-geek">
 </a>
-<div/>
+</div>
