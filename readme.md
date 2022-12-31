@@ -13,7 +13,6 @@ TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 - Wordpress;
 - WooCommerce;
 - Elementor;
-- HTML5;
 - CSS3;
 - Photoshop;
 - Illustrator.
