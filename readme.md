@@ -20,7 +20,7 @@ TECNOLOGIAS que fazem parte deste projeto 🧑‍🚀🚀:
 
 Abaixo etapa atual em que o site se encontra, assim que for avançando será atualizado automaticamente. <br>
 
-Para visualizar a parcial do projeto é só visitar o site <a target="_blank" href="https://www.omundogeek.com"> Clicando aqui!</a>. <br>
+O proprietário está migrando de Hospedagem, assim que realocar o site estará disponível<a target="_blank" href="https://www.omundogeek.com"> Clicando aqui!</a>. <br>
 Ou curta as imagens logo abaixo! 😁😍👍👽
 
 
